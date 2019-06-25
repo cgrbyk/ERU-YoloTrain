@@ -13,5 +13,5 @@ imageObjectSellector.py - Hazır olan modeli Resim üzerinde çalıştırır.
 Train-Data
 objectsellector.py - images klasörü içindeki resimleri kullanıcıya gösterir ve seçilen alan ve nesne bilgisi ile annotation dosyalarını oluşturur.
 generate_xml.py - objectsellector.py içerisinden çağırılır verilen parametreler ile annotation xml dosyasını oluşturur.
-
+ 
 
